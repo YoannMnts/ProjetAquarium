@@ -1,0 +1,19 @@
+{
+    "name": "Aquarium.Debug",
+    "rootNamespace": "Aquarium.Debug",
+    "references": [
+        "GUID:cb0dbb24f0870d34da52711a294c41c5",
+        "GUID:5aa607efb4e0fbf4f80d17764b96ec50"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
